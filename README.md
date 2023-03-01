@@ -1,3 +1,5 @@
+[![Python application test with Github Actions](https://github.com/nichtea01/azure-demos/actions/workflows/main.yml/badge.svg)](https://github.com/nichtea01/azure-demos/actions/workflows/main.yml)
+
 # azure-demos
 Repo for azure demos
 
